@@ -1,0 +1,58 @@
+.nav-title {
+    font-family: ivypresto-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+}
+.name p {
+    font-family: ivypresto-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+}
+.nav-links a {
+    font-family: quasimoda, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: white
+}
+h2 {
+    font-family: ivypresto-display, serif;
+    font-weight: 700;
+    font-size: 5em;
+    font-style: normal;
+    color: white
+}
+p {
+    font-family: quasimoda, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+a {
+    font-family: quasimoda, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+    text-decoration: none;
+}
+
+h3 {
+    font-family: ivypresto-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+}
+
+footer * {
+    color: #224C52
+}
+
+.projet>h4 {
+    color: #45B2AE;
+}
+
+.card h3 {
+    font-size: 1.5rem;
+}
